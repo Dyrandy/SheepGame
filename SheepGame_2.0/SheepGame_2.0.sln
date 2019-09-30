@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SheepGame_2.0", "SheepGame_2.0.csproj", "{91D1BC75-FE0F-34EC-95C7-B36E1F88D79C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SheepGame_2.0.Editor", "SheepGame_2.0.Editor.csproj", "{77C3D3E9-1BCB-71EB-EA1D-B3FD00930B6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91D1BC75-FE0F-34EC-95C7-B36E1F88D79C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91D1BC75-FE0F-34EC-95C7-B36E1F88D79C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91D1BC75-FE0F-34EC-95C7-B36E1F88D79C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91D1BC75-FE0F-34EC-95C7-B36E1F88D79C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77C3D3E9-1BCB-71EB-EA1D-B3FD00930B6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77C3D3E9-1BCB-71EB-EA1D-B3FD00930B6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77C3D3E9-1BCB-71EB-EA1D-B3FD00930B6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77C3D3E9-1BCB-71EB-EA1D-B3FD00930B6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
